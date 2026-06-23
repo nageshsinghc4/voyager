@@ -4,6 +4,8 @@ A production-grade trip planning system that dispatches 8 specialized AI agents 
 
 Checkout the video: [Voyager](https://youtu.be/tuzHTcoIEco)
 
+Blog : [Intelligent Machines](https://www.intelligentmachines.blog/post/how-i-built-voyager-a-multi-agent-architecture-using-langgraph)
+
 Built with **LangGraph**, **LangChain**, and **Azure / OpenAI**.
 
 ---
