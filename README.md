@@ -1,4 +1,4 @@
-# Trip Planner — Multi-Agent AI Orchestration
+# Voyager — Multi-Agent AI Orchestration
 
 A production-grade trip planning system that dispatches 8 specialized AI agents in parallel, integrates live data from 5 external APIs, and assembles a complete travel itinerary with budget breakdown, weather forecast, visa guidance, and PDF export.
 
