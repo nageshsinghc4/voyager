@@ -2,6 +2,8 @@
 
 A production-grade trip planning system that dispatches 8 specialized AI agents in parallel, integrates live data from 5 external APIs, and assembles a complete travel itinerary with budget breakdown, weather forecast, visa guidance, and PDF export.
 
+Checkout the video: [Voyager](https://youtu.be/tuzHTcoIEco)
+
 Built with **LangGraph**, **LangChain**, and **Azure / OpenAI**.
 
 ---
